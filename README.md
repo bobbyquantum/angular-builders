@@ -8,7 +8,7 @@ Builders' and Angular **major** versions **must** match.
 
 ## [Migration guide](./MIGRATION.MD)
 
-## Previous versions
+## Previous versions 
 
 <details>
   <summary>Click to expand</summary>
